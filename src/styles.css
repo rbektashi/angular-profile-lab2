@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body,
+ul,
+li,
+div,
+p,
+button {
+  margin: 0;
+  padding: 0;
+}
+.parent-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
